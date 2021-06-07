@@ -294,8 +294,7 @@ part of the funds guaranteed by the governance token.
 
 
 ## Disclaimers
-see ecomi whitepaper
-
+[TODO]
 
 
 ## Resources
