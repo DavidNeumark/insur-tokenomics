@@ -277,7 +277,7 @@ part of the funds guaranteed by the governance token.
 
 
 ## Team
-* [Henry Hazan](https://www.linkedin.com/in/henry-hazan-77b94116/) - CTO
+* [Henry Hazan](https://www.linkedin.com/in/henry-hazan-77b94116/) - CEO/CTO
 * [Leonardo Diamante](https://www.linkedin.com/in/leonardo-diamante-84a4003b/) - Chief Actuary
 * [Israel Gottlieb Phd](https://www.linkedin.com/in/israel-gottlieb/) - Machine Learning
 * [Yosef Kulikowsky](https://www.linkedin.com/in/yossef-kulikowsky-2b547b14a/) - Full Stack Programmer
