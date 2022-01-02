@@ -1,4 +1,4 @@
-file link here[https://miro.com/app/board/uXjVOYP6QmU=/]
+file link [here](https://miro.com/app/board/uXjVOYP6QmU=/)
 
 1. Insurdao Risk Team deploys and maintains smart contracts
 2. Coverage Designer makes the policy simulation
